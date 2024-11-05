@@ -1,0 +1,3 @@
+//Example on how to run the file
+
+ gcc -o packet packet_sniffer.c -lpcap
